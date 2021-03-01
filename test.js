@@ -2,7 +2,17 @@ const student = {
   firstName:"Petr",
   lastName:"Perviy"
 }
-student.firstName = "Petya"
+const group = []
 
-delete student.firstName;
+group.unshift(student)
+
+const student2 = {
+  firstName:"Dmitrii",
+  lastName:"Penkin"
+}
+const student3 = {
+  firstName:"Nikolay",
+  lastName:"Zotov"
+}
+group.push(student2, student3)
 
