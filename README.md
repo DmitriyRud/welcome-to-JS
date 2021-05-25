@@ -1,16 +1,15 @@
 # welcome-to-js 🥚
 
-### Release 0. Напишите код  в отдельном файле, выполнив задание из каждого пункта отдельной строкой: 
+### Release 0. Create a file and write down each task on a separate line:
 
-- Создайте пустой объект `student`.
-- Добавьте свойство firstName со значением `Petr`.
-- Добавьте свойство lastName со значением `Perviy`.
-- Измените значение свойства firstName на `Petya`.
-- Удалите свойство firstName из объекта.
+- Create an empty `student` object.
+- Add a property firstName with a value of `Peter`.
+- Add a property lastName with a value of `I`.
+- Change the value of the firstName property to `Petya`.
+- Remove the firstName property from the object.
 
-### Release 1. Напишите код, выполнив задание из каждого пункта отдельной строкой: 
+### Release 1. Create a file and write down each task on a separate line:
 
-- Создайте массив `group`
-- Добавьте в него студента из предыдущего задания
-- Добавьте в массив еще 2 случайных студентов с заполненными свойствами firstName, lastName.
-
+- Create an array `group`
+- Add the previous assignment's student to it
+- Add two more random students to the array with filled-in properties firstName and lastName.
